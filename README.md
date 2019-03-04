@@ -9,3 +9,5 @@
     2.  Attendance should be greater than or equal to 80%
     *   A student is said to be eligible if both conditions are true else, he/she is non-eligible
 *   Client should tell the student the reason of non-eligibility (i.e. either low attendance or less marks)
+
+***Currently in development phase; expect BUGS***
